@@ -1,0 +1,26 @@
+DaysSinceStart = 6
+93200,1,1,main,0,none,-1
+98000,1,1,main,0,none,-1
+101200,1,1,main,0,none,-1
+89400,1,1,main,0,none,-1
+200,1,1,main,0,09cd526a-1c51-44ac-ae41-061ce691795f,-1
+201,1,1,main,0,fbe25fa8-2def-4d6f-9b20-2f0d7343d167,-1
+203,1,1,main,0,3f4b01a9-a596-4445-9adb-128e95e1ed3e,-1
+204,1,1,main,0,91216c7b-035b-43f2-9086-2325f0bfe585,-1
+205,1,1,main,0,c678da4c-9754-41ec-adfb-e44f4b980101,-1
+91200,7,365,script,6,none,-1
+107600,1,1,main,0,none,-1
+95000,1,1,none,-1
+102400,1,1,Sermon,0,none,-1
+98800,1,1,Pilot Broadcast,0,none,-1
+93400,1,1,Erin1,0,none,-1
+212,7,3650,TVM,6,9ee1503c-3aa9-4a52-ac3d-18e0632ac6c8,-1
+217,1,1,Season One,0,none,-1
+71000,7,3650,Azakaela,6,none,-1
+93600,7,3650,custom,6,none,-1
+101400,7,365,script,6,none,-1
+77000,1,1,script,0,none,-1
+93800,7,60,script,6,none,-1
+94000,7,3650,GU,6,none,-1
+215,1,1,script,0,5ec3f37a-5fc9-43ea-9c46-cbab3266c620,-1
+105600,1,1,GEN-299375,-1
